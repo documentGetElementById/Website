@@ -1,7 +1,9 @@
 h1 {
   font-family: 'Lato', Arial, Sans-Serif;
+  font-weight: 500;
 }
 
 .title {
   text-align: center;
+  width: 100%;
 }
